@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 
-# 50_Starups.csv contains four feature 
+# 50_Starups.csv contains four feature (Linear)
 print('-------------------------------------------------')
 print('Seprating features and dependent variable . . . ')
 dataset = pd.read_csv('50_Startups.csv')
